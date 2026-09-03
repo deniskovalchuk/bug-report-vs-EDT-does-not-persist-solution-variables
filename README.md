@@ -36,7 +36,9 @@ Visual Studio 2026 with the **Visual Studio extension development** workload ins
 
 - This functionality works correctly for `.sln` solutions.
 - This functionality works correctly if you explicitly save the solution multiple times.
-- See `AddVariableCommand.Execute()` and `GetVariableCommand.Execute()` for more details.
+- See [`AddVariableCommand.Execute()`](https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/a6b6fdcd5f6229b2ac0240e264d07b678f9e429a/VisualStudioReport/AddVariableCommand.cs#L44)
+  and [`GetVariableCommand.Execute()`](https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/a6b6fdcd5f6229b2ac0240e264d07b678f9e429a/VisualStudioReport/GetVariableCommand.cs#L44)
+  for more details.
 
 <h2>Environment</h2>
 
