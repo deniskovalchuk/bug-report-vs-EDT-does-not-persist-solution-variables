@@ -22,9 +22,9 @@ Visual Studio 2026 with the **Visual Studio extension development** workload ins
 
     <img src="https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/756d5f2055f767ef795c79411da51404926a3316/Images/AddVariable.png" width="40%" alt="Image" />
 
-10. `File -> Close Solution` and click `Save`.
-11. Open the `ConsoleApp` again.
-12. `Tools -> Get Variable from Solution`.
+9. `File -> Close Solution` and click `Save`.
+10. Open the `ConsoleApp` again.
+11. `Tools -> Get Variable from Solution`.
 
     **Expected behavior**  
     <img src="https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/756d5f2055f767ef795c79411da51404926a3316/Images/GetVariableExpected.png" width="40%" alt="Image" />
