@@ -18,13 +18,13 @@ Visual Studio 2026 with the **Visual Studio extension development** workload ins
 5. Open a project from the repository in Visual Studio 2026.
 6. `Debug -> Start (F5)`.
 7. In the experimental instance open the `ConsoleApp` project created in step 2.
-8. `Tools -> Add variable to Solution`.
+8. `Tools -> Add Variable to Solution`.
 
     <img src="https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/756d5f2055f767ef795c79411da51404926a3316/Images/AddVariable.png" width="40%" alt="Image" />
 
 10. `File -> Close Solution` and click `Save`.
 11. Open the `ConsoleApp` again.
-12. `Tools -> Get variable from Solution`.
+12. `Tools -> Get Variable from Solution`.
 
     **Expected behavior**  
     <img src="https://github.com/deniskovalchuk/bug-report-vs-EDT-does-not-persist-solution-variables/blob/756d5f2055f767ef795c79411da51404926a3316/Images/GetVariableExpected.png" width="40%" alt="Image" />
