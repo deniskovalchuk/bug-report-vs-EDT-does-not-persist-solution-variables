@@ -1,0 +1,1 @@
+# bug-report-vs-EDT-does-not-persist-solution-variables
